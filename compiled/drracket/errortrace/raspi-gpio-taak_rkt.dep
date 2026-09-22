@@ -1,0 +1,1 @@
+("8.6" tarm64osx ("3eb3f07948cc3cf69145c6e0382742c4c76829c1" . "b059bd5e8743a7677bbd8f2192c8f03af967fb28") #"/Users/gurkanhamarat/Desktop/Taak RPI/lsm303d.rkt" (collects #"errortrace" #"errortrace-key.rkt") (collects #"ffi" #"unsafe.rkt") (collects #"racket" #"main.rkt") (collects #"racket" #"runtime-config.rkt"))
